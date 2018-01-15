@@ -29,14 +29,11 @@ header img {
   padding-left: 10px;
 }
 
-nav ul {
+nav span {
   width: 350px;
   display: flex;
   justify-content: space-between;
   padding-right: 25px;
-}
-
-nav a {
   text-decoration: underline;
   color: white;
 }
